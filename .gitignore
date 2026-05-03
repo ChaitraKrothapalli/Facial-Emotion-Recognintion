@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Large data/model/output folders
+data/
+models/
+outputs/
+
+# Logs
+*.log
